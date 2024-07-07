@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useRef, useCallback, useMemo } from 'react'
-import html2canvas from 'html2canvas'
+// import html2canvas from 'html2canvas'
 import { DEFAULT_SETTINGS } from './constants'
 import { MemoizedControlGroup } from './components/MemoizedControlGroup'
 import './App.css'
